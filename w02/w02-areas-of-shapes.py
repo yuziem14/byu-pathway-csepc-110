@@ -1,3 +1,11 @@
+'''
+Team Authors / CSEPC 110
+
+@Yuri Nunes
+@Gabriely Silveira
+@Randy Munõz
+'''
+
 import math
 
 # PI_VALUE = 3.14 (replaced by math.pi constant)
