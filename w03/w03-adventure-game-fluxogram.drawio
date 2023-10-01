@@ -1,0 +1,239 @@
+<mxfile host="app.diagrams.net" modified="2023-10-01T01:21:28.341Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="iK1YrIJHlWTti0r_yz69" version="22.0.0" type="device">
+  <diagram name="W03 Adventure Game" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="4510" dy="2028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fJcIR22K3duosEOk0-4w-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-1" target="fJcIR22K3duosEOk0-4w-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="540" y="40" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-2" target="fJcIR22K3duosEOk0-4w-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-2" value="You&#39;re a soldier in World War II. You see your companion on the ground, injured. Do you HELP him or let him DIE?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="140" width="335" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-4" target="fJcIR22K3duosEOk0-4w-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-11" value="HELP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="fJcIR22K3duosEOk0-4w-8">
+          <mxGeometry x="0.1137" y="2" relative="1" as="geometry">
+            <mxPoint x="3" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-4" target="fJcIR22K3duosEOk0-4w-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-12" value="DIE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="fJcIR22K3duosEOk0-4w-10">
+          <mxGeometry x="-0.2941" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-4" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="525" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-6" target="fJcIR22K3duosEOk0-4w-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-6" value="While you run in his direction, an enemy hurls a grenade your way. Do you THROW the grenade in another direction or RUN to a different one?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="240" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-7" target="fJcIR22K3duosEOk0-4w-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-7" value="Your companion has died, and he held an important secret that is now in the hands of the enemy. Do you plan to REEPORT it to your superiors or HIDE this fact?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="805" y="240" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-13" target="fJcIR22K3duosEOk0-4w-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-25" value="THROW" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="fJcIR22K3duosEOk0-4w-17">
+          <mxGeometry x="-0.2843" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-13" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="345" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-15" target="fJcIR22K3duosEOk0-4w-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-15" value="You threw the grenade into the enemy crowd, defeating them, and then dove for cover beside your companion. In this critical moment, you called for medical support. While you waited for them to arrive, did you decide to FIGHT the other enemies or WAIT for medical assistance?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="335" width="370" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-16" target="fJcIR22K3duosEOk0-4w-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-16" value="When you ran in a different direction, you were shot in the leg, and now you are struggling to reach your companion. What will you do? Will you keep GOING or STOP?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-13" target="fJcIR22K3duosEOk0-4w-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-27" value="RUN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="fJcIR22K3duosEOk0-4w-18">
+          <mxGeometry x="-0.1476" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-19" target="fJcIR22K3duosEOk0-4w-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="380" />
+              <mxPoint x="910" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-28" value="REPORT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="fJcIR22K3duosEOk0-4w-22">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint x="7" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-19" target="fJcIR22K3duosEOk0-4w-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-29" value="HIDE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="fJcIR22K3duosEOk0-4w-23">
+          <mxGeometry x="-0.4667" y="-1" relative="1" as="geometry">
+            <mxPoint x="15" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-19" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="935" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-20" target="fJcIR22K3duosEOk0-4w-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-20" value="Reporting that you left your companion is considered a betrayal of the nation and an abandonment of your mission. Will you try to APOLOGIZE for your mistake or ACCEPT the decision?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="350" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-21" target="fJcIR22K3duosEOk0-4w-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-21" value="By hiding this important information, you risk losing the war. Will you attempt to RECOVER the secret or accept the possibility of LOSING the war?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="345" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-30" value="After fighting, you manage to defeat the enemies, and your companion is safe. Among the enemies, you find one who possesses a crucial strategy to win the war. You deliver this strategy to your leader, and they formulate a counter-strategy that ultimately leads to victory in the war." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="620" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-31" value="While waiting for medical assistance, a large number of enemies close in on your position. It&#39;s apparent that survival is unlikely, so you make the difficult choice to destroy the secret your companion carries with him. After a few seconds, both you and your companion succumb to your injuries, but due to your actions, the enemy is prevented from winning the war for the time being." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="620" width="420" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.952;exitY=0.517;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-32" target="fJcIR22K3duosEOk0-4w-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-140" y="521" />
+              <mxPoint x="20" y="521" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-36" value="FIGHT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="fJcIR22K3duosEOk0-4w-33">
+          <mxGeometry x="-0.0793" y="4" relative="1" as="geometry">
+            <mxPoint x="-31" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-32" target="fJcIR22K3duosEOk0-4w-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-460" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-37" value="WAIT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="fJcIR22K3duosEOk0-4w-34">
+          <mxGeometry x="-0.1036" y="-1" relative="1" as="geometry">
+            <mxPoint x="50" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-32" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-38" value="&lt;br&gt;With tremendous effort, you manage to reach your companion in time, but sadly, he succumbs to his injuries and passes away. However, another soldier comes to your rescue, and together, you retrieve your fallen comrade. The secret remains safe, but the war is far from over. At the very least, you have ensured that your friend has an honorable death." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="700" width="462.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-39" value="A soldier never gives up. You have many choices, but you weren&#39;t prepared for battlefield. You died and will never know if your army won the war." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="610" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-44" target="fJcIR22K3duosEOk0-4w-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="710" />
+              <mxPoint x="330" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-41" value="GOING" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="fJcIR22K3duosEOk0-4w-40">
+          <mxGeometry x="-0.0793" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-44" target="fJcIR22K3duosEOk0-4w-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-43" value="STOP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="fJcIR22K3duosEOk0-4w-42">
+          <mxGeometry x="-0.1036" y="-1" relative="1" as="geometry">
+            <mxPoint x="-35" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-44" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-47" value="&lt;br&gt;You accept it and return home without honor. A few months later, your country loses the war because of the secret you lost. You know it&#39;s your fault." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="590" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-48" value="You apologize for your mistake and offer yourself as a sacrifice. As an explosives expert, you had already planted numerous bombs in the enemy&#39;s field, which resulted in the deaths of many of them and brought your army closer to victory, but you died in the process. This act becomes your redemption." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="470" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-53" target="fJcIR22K3duosEOk0-4w-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="560" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="695" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-50" value="ACCEPT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="fJcIR22K3duosEOk0-4w-49">
+          <mxGeometry x="-0.0793" y="4" relative="1" as="geometry">
+            <mxPoint x="37" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-53" target="fJcIR22K3duosEOk0-4w-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-52" value="APOLOGIZE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="fJcIR22K3duosEOk0-4w-51">
+          <mxGeometry x="-0.1036" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-53" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="655" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-56" value="&lt;br&gt;In the process of recovering the secret, you become a spy. You manipulate the enemies by distorting the secret, leading them to adopt the wrong strategy, and as a result, they are defeated. Victory is yours." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="580" width="450" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-57" value="The secret they obtained was that all the food and supplies would arrive in a week at 9 AM on the coast near the main headquarters. The enemies destroyed all the food and supplies, and after two days, they launched an invasion, resulting in the deaths of all the soldiers. You have lost!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="440" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-62" target="fJcIR22K3duosEOk0-4w-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-59" value="RECOVER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="fJcIR22K3duosEOk0-4w-58">
+          <mxGeometry x="-0.0793" y="4" relative="1" as="geometry">
+            <mxPoint x="-4" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fJcIR22K3duosEOk0-4w-62" target="fJcIR22K3duosEOk0-4w-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-61" value="LOSING" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="fJcIR22K3duosEOk0-4w-60">
+          <mxGeometry x="-0.1036" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJcIR22K3duosEOk0-4w-62" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
