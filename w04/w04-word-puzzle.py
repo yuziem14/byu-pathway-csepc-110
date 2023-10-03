@@ -16,13 +16,12 @@ number_guesses = 0
 print('Welcome to the world guessing game!')
 
 while secret != guess:
+    number_guesses += 1
     guess = input('> What is your guess? ')
 
     if len(secret) != len(guess):
         print(ERROR_MESSAGE)
         continue
-
-    number_guesses += 1
 
     if(guess == secret):
         print('Congratulations! You guessed it!')
