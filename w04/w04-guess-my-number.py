@@ -14,13 +14,17 @@ import random
 
 
 magic_number = int(input('> What is the magic number to guess? '))
+# User guess will always start different from the magic number
+user_guess = magic_number + 1
+
 os.system('cls' if os.name == 'nt' else 'clear')
 
-user_number = int(input('> What\'s the magic number? '))
+while(magic_number != user_guess):
+    user_guess = int(input('> What\'s the magic number? '))
 
-if user_number < magic_number:
-    print('Lower')
-elif user_number > magic_number:
-    print('Higher')
-else:
-    print('You guessed it!')
+    if user_guess < magic_number:
+        print('Lower')
+    elif user_guess > magic_number:
+        print('Higher')
+    else:
+        print('You guessed it!')
