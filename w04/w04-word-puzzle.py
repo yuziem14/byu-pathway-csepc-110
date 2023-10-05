@@ -19,14 +19,19 @@ print('Welcome to the world guessing game!')
 while secret != guess:
     new_hint = ''
     number_guesses += 1
+    throw_error = len(secret) != len(guess) if number_guesses != 1 else False
 
-    print(f'Your hint is: {hint}')
+    if throw_error == False:
+        print(f'Your hint is: {hint}')
+
     guess = input('> What is your guess? ')
 
-    if len(secret) != len(guess):
+    throw_error = len(secret) != len(guess)
+
+    if throw_error:
         print(ERROR_MESSAGE)
         continue
-
+    
     for index in range(0, len(secret)):
         secret_letter = secret[index]
         guess_letter = guess[index]
@@ -39,3 +44,6 @@ while secret != guess:
             new_hint += '_'
         
         hint = new_hint
+
+print('Congratulations! You guessed it!')
+print(f'It took you {number_guesses} guesses.')
