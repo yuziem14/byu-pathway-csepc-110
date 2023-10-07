@@ -3,8 +3,11 @@
 
 Week 04 Project: Word Puzzle Game
 
-Exceed Requirement: None
+Exceed Requirement: Get a random secret of a list of secrets and use colors to make game more fun
 '''
+# Import random module and OS module for clear console
+import os
+import random
 
 # Declare ANSI Colors Constants
 BOLD = "\u001b[1m"
@@ -14,9 +17,6 @@ GREEN_BOLD = "\033[1;32m"
 PURPLE_BOLD = "\033[1;35m"
 RESET_COLOR = "\u001b[0m"
 
-# Import OS module for clear console
-import os
-
 # Declare all the game messages
 ERROR_MESSAGE = f'{RED}> Sorry, the guess must have the same number of letters as the secret word.{RESET_COLOR}'
 CONGRATULATIONS_MESSAGE = f'{GREEN_BOLD}Congratulations! You guessed it!{RESET_COLOR}'
@@ -25,8 +25,10 @@ HINT_MESSAGE = f'{GREEN}Your hint is: [hint]{RESET_COLOR}'
 GUESS_QUESTION = f'{BOLD}> What is your guess?{RESET_COLOR} '
 
 
-# Store the secret word and initialize other variables
-secret = 'temple'
+# Initialize a list of secret
+secret_list = ['temple', 'mosiah', 'lamanites', 'moroni', 'alma', 'nephi']
+# Store the secret word get random and initialize other variables
+secret = secret_list[random.randint(0, len(secret_list)-1)]
 secret_length = len(secret)
 hint = '______'
 guess = ''
