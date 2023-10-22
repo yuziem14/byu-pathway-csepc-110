@@ -30,11 +30,15 @@ secret_list = ['temple', 'mosiah', 'lamanites', 'moroni', 'alma', 'nephi']
 # Store the secret word get random and initialize other variables
 secret = secret_list[random.randint(0, len(secret_list)-1)]
 secret_length = len(secret)
-hint = '______'
+hint = ''
 guess = ''
 number_guesses = 0
 
 print(f'{PURPLE_BOLD}Welcome to the world guessing game!{RESET_COLOR}')
+print(HINT_MESSAGE.replace('[hint]', hint), end='')
+for letter in secret:
+    print('_', end="")
+print()
 
 while secret != guess:    
     new_hint = ''
@@ -43,7 +47,7 @@ while secret != guess:
     # Check if hint should be displayed. If its the first guess display anyway
     throw_error = secret_length != len(guess) if number_guesses != 1 else False
 
-    if throw_error == False:
+    if throw_error == False and number_guesses != 1:
         print(HINT_MESSAGE.replace('[hint]', hint))
 
     guess = input(GUESS_QUESTION).lower()
